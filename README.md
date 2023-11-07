@@ -1,5 +1,5 @@
 # Predicating_the_Shape
-Rectangle,triangle, Circle shape can be predicted.
+Rectangle,triangle, Circle shape can be predicted. Set the Track Bar (as shown in set_the_trackbar.jpg image).
 
 
     import cv2
